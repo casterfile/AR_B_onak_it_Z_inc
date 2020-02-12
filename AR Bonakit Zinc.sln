@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{79A98055-A4E6-3567-CB54-3F576098D283}") = "AR Bonakit Zinc", "Assembly-CSharp.csproj", "{3D29DD9E-2C2A-6140-3134-FF1C061B4631}"
+EndProject
+Project("{79A98055-A4E6-3567-CB54-3F576098D283}") = "AR Bonakit Zinc", "Assembly-CSharp-Editor.csproj", "{5817EC7D-926E-E899-2128-1A1E01DF915D}"
+EndProject
+Project("{79A98055-A4E6-3567-CB54-3F576098D283}") = "AR Bonakit Zinc", "Assembly-UnityScript-Editor-firstpass.unityproj", "{67E95D0C-45F5-D464-306E-A05F1433FC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D29DD9E-2C2A-6140-3134-FF1C061B4631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D29DD9E-2C2A-6140-3134-FF1C061B4631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D29DD9E-2C2A-6140-3134-FF1C061B4631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D29DD9E-2C2A-6140-3134-FF1C061B4631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5817EC7D-926E-E899-2128-1A1E01DF915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5817EC7D-926E-E899-2128-1A1E01DF915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5817EC7D-926E-E899-2128-1A1E01DF915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5817EC7D-926E-E899-2128-1A1E01DF915D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E95D0C-45F5-D464-306E-A05F1433FC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E95D0C-45F5-D464-306E-A05F1433FC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E95D0C-45F5-D464-306E-A05F1433FC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E95D0C-45F5-D464-306E-A05F1433FC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
